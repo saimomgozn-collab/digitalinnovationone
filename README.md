@@ -385,3 +385,40 @@ Soft Skills valorizadas:
 Proatividade para antecipar riscos e propor soluções
 
 Capacidade de resolver problemas de forma estruturada e colaborativa
+
+📊 Resumo das Habilidades
+🔐 Cibersegurança
+Experiência prática com SOC (Security Operations Center)
+
+Conhecimento em Python para automação e análise de logs
+
+Capacidade de identificar vulnerabilidades e responder a incidentes
+
+Proatividade e foco em resolução de problemas
+
+📈 Ciência de Dados
+Interesse e afinidade com análise de dados
+
+Entendimento de como transformar dados em insights estratégicos
+
+Familiaridade com conceitos de estatística e modelagem
+
+Comunicação clara para explicar resultados a diferentes públicos
+
+🤖 Machine Learning / Inteligência Artificial
+Interesse em aplicar IA para segurança e dados
+
+Noções de modelos de aprendizado supervisionado e não supervisionado
+
+Capacidade de integrar soluções de ML em projetos práticos
+
+Visão empreendedora para criar soluções inovadoras
+
+🌟 Competências Transversais
+Proatividade: antecipar riscos e propor soluções
+
+Resolução de problemas: abordagem estruturada e prática
+
+Comunicação: facilidade em lidar com pessoas e equipes
+
+Visão estratégica: experiência empreendedora com startup
