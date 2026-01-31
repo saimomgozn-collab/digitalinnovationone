@@ -364,3 +364,24 @@ Relatório claro e estruturado
 Demonstração prática de mitigação
 
 DICA: Use plataformas como TryHackMe ou HackTheBox para treinar em ambientes controlados.
+
+
+TESTE DE VEGA LIDA NO COPILOT - TESTANDO PRONPT
+📌 Vaga: Analista de Cibersegurança Júnior
+Propósito principal:  
+Atuar na proteção de sistemas e dados, monitorando ambientes de segurança e apoiando na resposta a incidentes.
+
+Senioridade:  
+Júnior — ideal para profissionais em início de carreira, com foco em aprendizado prático e evolução dentro da área.
+
+Stack técnico essencial:
+
+Experiência em SOC (Security Operations Center)
+
+Conhecimentos em Python para automação e análise de logs
+
+Soft Skills valorizadas:
+
+Proatividade para antecipar riscos e propor soluções
+
+Capacidade de resolver problemas de forma estruturada e colaborativa
